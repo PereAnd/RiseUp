@@ -1,0 +1,114 @@
+ .u-section-1 {
+  background-image: url("images/DALLE2023-03-0615.55.39-tiempoalarmadespertar1.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 790px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 134px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 172px;
+  width: 418px;
+  margin: 110px auto 0;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0 30px 1px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  margin: 0 auto 0 456px;
+}
+
+.u-section-1 .u-text-3 {
+  text-decoration: underline !important;
+  margin: -22px auto 60px 616px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 651px;
+  }
+
+  .u-section-1 .u-form-group-3 {
+    height: 172px;
+    margin: 0 261px 60px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 370px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 502px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 499px;
+  }
+
+  .u-section-1 .u-form-group-3 {
+    margin-left: 151px;
+    margin-right: 151px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 275px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 376px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 374px;
+  }
+
+  .u-section-1 .u-form-group-3 {
+    margin-left: 61px;
+    margin-right: 61px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 272px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 235px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-form-group-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 144px;
+  }
+}opacity: 0,4
